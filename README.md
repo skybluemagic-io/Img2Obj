@@ -1,6 +1,8 @@
 Works with Python 3.8
 
+
 ↓ When executing, rewrite the path and file name.
+
 
 "
 #元画像の設定。Original img
