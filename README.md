@@ -1,7 +1,7 @@
-Works with Python 3.8
+# Works with Python 3.8
 
 
-↓ When executing, rewrite the path and file name.
+# ↓ When executing, rewrite the path and file name.
 
 
 "
