@@ -1,7 +1,9 @@
-# Works with Python 3.8
+## This code converts the image to 3D Obj.
+
+## Works with Python 3.8
 
 
-# ↓ When executing, rewrite the path and file name.
+## ↓ When executing, rewrite the path and file name.
 
 
 "
