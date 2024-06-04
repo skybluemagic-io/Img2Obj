@@ -1,4 +1,4 @@
-## This code converts the image to 3d obj.
+## This code converts the image to a 3d obj.
 
 ## Works with Python 3.8
 
