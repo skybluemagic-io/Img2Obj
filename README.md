@@ -1,5 +1,5 @@
 ## This code converts the image to a 3d obj.
-## UV and normal are set.
+### UV and normal are set.
 
 ## Works with Python 3.8
 
