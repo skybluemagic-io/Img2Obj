@@ -1,0 +1,2 @@
+str = "add new file"
+print(str)
